@@ -42,7 +42,7 @@ Core Components
 - Page Object Model (POM) Concepts:
   Adopts the Page Object Model pattern, which encapsulates page elements and actions within page classes. This approach promotes a more centralized and maintainable structure, facilitating easier updates and enhancements to the test scripts.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
@@ -51,7 +51,7 @@ Core Components
 - <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
 - <img src="https://img.shields.io/badge/TestNG-8A2BE2?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG Badge" />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
