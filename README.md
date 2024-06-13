@@ -46,14 +46,22 @@ Core Components
 
 
 ### Built With
-<img src="{https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-![image]({https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white})
-
+- <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" />
+- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+- <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+- <img src="https://img.shields.io/badge/TestNG-8A2BE2?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG Badge" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+- Ensure you have the following installed on your machine: JDK, Maven, Git
+- Clone the repository
+- Install the dependencies with 'mvn clean install' command
+- Update your configuration files in configuration.properties
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-By focusing on these core concepts, the project aims to provide a clear and practical example of how Spring can be used to build a robust and scalable service. It serves as a valuable learning resource for understanding the essential principles of the Spring framework and their application in real-world scenarios.
+This testing framework provides a solid foundation for automating UI tests with Cucumber BDD, TestNG, and Selenium. Its structured approach and reusable components ensure that you can easily scale and maintain your automated tests as your application grows.
